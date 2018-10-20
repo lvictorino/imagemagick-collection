@@ -1,0 +1,17 @@
+.cache
+*.log
+fmod*.log
+.vs
+*.pidb*
+*.userprefs*
+*.user*
+*.csproj*
+*.unityproj*
+*.sln*
+*.suo*
+*~
+.DS_Store*
+.DS_Store?
+._*
+.Trashes*
+Thumbs.db*
